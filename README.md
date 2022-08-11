@@ -1,4 +1,4 @@
-# how-to-work-with-us
+# How to Work With Us
 As a project covering Linux and open source ecosystems, we welcome your contribution, which is not limited to the financial aspect only, as you can contribute to the development of the project by:
 
 - Report a bug/error in our website, articles, or repositories.
